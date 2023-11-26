@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nascimentoctba
-- 👀 I’m interested in DataScience and React Native!
+- 👀 I’m interested in DataScience!
 - 🌱 I’m currently learning  Data Science and react Native
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoctba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
